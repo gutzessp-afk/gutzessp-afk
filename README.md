@@ -1,2 +1,2 @@
 <!-- HEADER -->
-<img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" />
+<img src="https://www.google.com/search?sca_esv=446c661570ceeb01&sxsrf=ANbL-n5L8ATXKu7muqCK3-5BS9VvwFokSg:1774220556334&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vxYI1tojT_24H7Q4iMwclSJUz4FcZOM5Pq33gz9PnkySpOwhWLSmy32d1ONyO_Wrv7mAKrNDKTNCT-p6qZDvYKkr2upU_-SljCxOK2M71akCmn8xr_KZcRReX1XREtiZHY80vdwxJ6hb_VXDcQvbLItxRlvIo_E_nLhEUNA3Tx6a6JJsg&q=banner+gif+anime&sa=X&sqi=2&ved=2ahUKEwigxo3QzrSTAxXvNd4AHY_BIskQtKgLegQIExAB&biw=1920&bih=945&dpr=1#sv=CAMSXhoyKhBlLVR5VFhrNnZ5c25TQU1NMg5UeVRYazZ2eXNuU0FNTToOSXNGUk51dlJSbG5mZk0gBCokCg4zdENfZER1dy1SMmlDTRIQZS1UeVRYazZ2eXNuU0FNTRgAMAEYByCMpIPWCzACSggQARgBIAEoAQ" />
