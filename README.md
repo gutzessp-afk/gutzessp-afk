@@ -24,7 +24,7 @@
 </p>
 
 
-### 🛠️ Tech Stack
+### 🛠️ Skills
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,mysql,react,tailwind,git,github,vscode" />
 </p>
@@ -44,7 +44,6 @@
 </p>
 
 
-🐍 Snake Animation
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
