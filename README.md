@@ -35,3 +35,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gutzessp-afk&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutzessp-afk&layout=compact&theme=tokyonight" />
 </p>
+
+
+
+### 🔥 Racha de contribuciones
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=gutzessp-afk&theme=tokyonight" />
+</p>
