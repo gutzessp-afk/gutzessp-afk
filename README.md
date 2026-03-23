@@ -14,3 +14,11 @@
 - 🌱 Aprendiendo **Python, IA y Backend**
 - 💬 Pregúntame sobre **HTML, CSS, JS, Laravel**
 - ⚡ Me gusta automatizar cosas y crear proyectos reales
+
+
+🌐 Conecta conmigo
+<p align="left">
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
