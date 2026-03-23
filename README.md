@@ -42,3 +42,16 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=gutzessp-afk&theme=tokyonight" />
 </p>
+
+
+🐍 Snake Animation
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer"/>
+
+
