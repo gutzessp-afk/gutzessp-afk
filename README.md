@@ -15,11 +15,12 @@
 <img align="right" width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-DCkstbMWJWtCXcVb2z8qILDx-g4Ntx7CE8BdpEscQGVw2Z1HE6dy_US59qLq8RLfREiiTHbS36D-ZYIziXVO6nQkFmv1L1y70UAjrNEmnArTxdnDMBWUKT4xhnEz58MsQHNdtAs_FyA/s1600/3dc941e714fee4a9cdad76bd4b0f98d5.gif">
 
 ### 🧠 About Me
-- 🔭 Actualmente trabajando en proyectos web
-- 🌱 Aprendiendo **Python, IA y Backend**
-- 💬 Pregúntame sobre **HTML, CSS, JS, Laravel**
-- ⚡ Me gusta automatizar cosas y crear proyectos reales
 
+- 🕶️ Code. Debug. Repeat.  
+- 💻 Construyendo proyectos en silencio  
+- 🤖 Especializándome en **Machine Learning**  
+- ⚡ Obsesionado con mejorar cada día  
+- 🔥 No solo programo... creo sistemas  
 
 🌐 Conecta conmigo
 <p align="left">
