@@ -4,7 +4,7 @@
 <h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🤖 Future AI Engineer</h3>
 
 <!-- GIF + ABOUT -->
-<img align="right" width="300" src="https://coolanimehustler.blogspot.com/2017/02/animation-gif-wednesday.html">
+<img align="right" width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-DCkstbMWJWtCXcVb2z8qILDx-g4Ntx7CE8BdpEscQGVw2Z1HE6dy_US59qLq8RLfREiiTHbS36D-ZYIziXVO6nQkFmv1L1y70UAjrNEmnArTxdnDMBWUKT4xhnEz58MsQHNdtAs_FyA/s1600/3dc941e714fee4a9cdad76bd4b0f98d5.gif">
 
 ### 🧠 About Me
 - 🔭 Actualmente trabajando en proyectos web
