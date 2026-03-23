@@ -4,9 +4,7 @@
 <h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🤖 Future AI Engineer</h3>
 
 <!-- GIF + ABOUT -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400">
-</p>
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ### 🧠 About Me
 - 🔭 Actualmente trabajando en proyectos web
