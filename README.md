@@ -4,6 +4,11 @@
 
 <h1 align="center">𝜤'𝒎 𝑺𝜾𝜶𝝍</h1>
 
+<p align="center">
+  <i>"Aunque ande en valle de sombra de muerte, no temeré mal alguno.✞ " — Salmo 23:4</i>
+</p>
+
+
 <h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🤖 Future AI Engineer</h3>
 
 <!-- GIF + ABOUT -->
