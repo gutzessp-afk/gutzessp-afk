@@ -2,3 +2,12 @@
 
 <h1 align="center"> 𝓘'𝓶 𝓢𝓵𝓪𝔂/
 <h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🤖 Future AI Engineer</h3>
+
+<!-- GIF + ABOUT -->
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 🧠 About Me
+- 🔭 Actualmente trabajando en proyectos web
+- 🌱 Aprendiendo **Python, IA y Backend**
+- 💬 Pregúntame sobre **HTML, CSS, JS, Laravel**
+- ⚡ Me gusta automatizar cosas y crear proyectos reales
