@@ -28,3 +28,10 @@
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,mysql,react,tailwind,git,github,vscode" />
 </p>
+
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USER&layout=compact&theme=tokyonight" />
+</p>
