@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/4c/7b/aa/4c7baa8d0ac1c73df46db9c5324d5390.jpg" width="100%" />
 </p>
 
-<h1 align="center">I'm Slay</h1>
+<h1 align="center">𝜤'𝒎 𝑺𝜾𝜶𝝍</h1>
 
 <h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🤖 Future AI Engineer</h3>
 
