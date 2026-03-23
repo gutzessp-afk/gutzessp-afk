@@ -22,3 +22,9 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
+
+
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,mysql,react,tailwind,git,github,vscode" />
+</p>
