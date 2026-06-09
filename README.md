@@ -13,11 +13,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
 </p>
 
-<!-- ABOUT + GIF -->
-<img align="right" width="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-DCkstbMWJWtCXcVb2z8qILDx-g4Ntx7CE8BdpEscQGVw2Z1HE6dy_US59qLq8RLfREiiTHbS36D-ZYIziXVO6nQkFmv1L1y70UAjrNEmnArTxdnDMBWUKT4xhnEz58MsQHNdtAs_FyA/s1600/3dc941e714fee4a9cdad76bd4b0f98d5.gif"/>
+<!-- ABOUT ME — REDISEÑADO -->
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ### ▌自己紹介 — About Me
 
@@ -34,54 +36,67 @@ impl Developer {
         "No solo programo... creo sistemas."
     }
     fn obsesion() -> Vec<&'static str> {
-        vec!["Machine Learning", "Code", "Debug", "Repeat"]
+        vec!["Machine Learning", "Code",
+             "Debug", "Repeat"]
     }
 }
 ```
 
-<br clear="right"/>
+> 🕶️ Construyendo proyectos en silencio  
+> 🤖 Especializándome en **Machine Learning**  
+> ⚡ Obsesionado con mejorar cada día  
+> 🔥 Silent work. Loud results.
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/l4FGr2Oyp5MATfBbO/giphy.gif" width="280" style="border-radius:8px"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
 </p>
 
 <!-- SKILLS -->
 ### ▌スキル — Stack Tecnológico
 
-**Frontend**
+**⟨ Frontend ⟩**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue&theme=dark" />
 </p>
 
-**Backend**
+**⟨ Backend ⟩**
 <p>
   <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,fastapi,flask&theme=dark" />
 </p>
 
-**Data & AI**
+**⟨ Data & AI ⟩**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </p>
 
-**DevOps & Tools**
+**⟨ DevOps & Tools ⟩**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vscode,mysql,mongodb,redis,aws&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
 </p>
 
 <!-- STATS -->
 ### ▌統計 — GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gutzessp-afk&show_icons=true&theme=merko&border_color=8b0000&bg_color=0a0a0a&title_color=cc2200&icon_color=8b0000&text_color=aaaaaa&hide_border=false&ring_color=cc2200" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gutzessp-afk&show_icons=true&theme=merko&border_color=8b0000&bg_color=0a0a0a&title_color=cc2200&icon_color=8b0000&text_color=aaaaaa" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutzessp-afk&layout=compact&theme=merko&border_color=8b0000&bg_color=0a0a0a&title_color=cc2200&text_color=aaaaaa" width="41%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gutzessp-afk&theme=merko&background=0a0a0a&ring=cc2200&fire=cc2200&currStreakLabel=8b0000&border=8b0000&sideLabels=aaaaaa&dates=666666" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=gutzessp-afk&theme=merko&background=0a0a0a&ring=cc2200&fire=cc2200&currStreakLabel=cc2200&border=8b0000&sideLabels=aaaaaa&dates=666666" width="70%"/>
 </p>
 
 <p align="center">
@@ -89,7 +104,7 @@ impl Developer {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
 </p>
 
 <!-- CONTRIBUTIONS SNAKE -->
@@ -104,7 +119,7 @@ impl Developer {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
 </p>
 
 <!-- CONNECT -->
@@ -116,7 +131,6 @@ impl Developer {
   <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 </p>
 
-<!-- VISITOR COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gutzessp-afk&style=for-the-badge&color=8b0000&label=訪問者+%2F+VISITAS" />
 </p>
