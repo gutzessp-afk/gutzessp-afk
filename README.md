@@ -1,62 +1,105 @@
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7b2fff,100:ff2d78&height=200&section=header&text=%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E5%8A%9B%E3%81%A0&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Code%20is%20power&descAlignY=60&descSize=16&animation=twinkling"/>
+
+<!-- NAME -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=36&duration=3000&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&lines=%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC+%2F+Suat;%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC+%2F+Coder;%E9%96%8B%E7%99%BA%E8%80%85+%2F+Developer" alt="Typing SVG" />
+</h1>
+
+<!-- QUOTE -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4c/7b/aa/4c7baa8d0ac1c73df46db9c5324d5390.jpg" width="100%" />
+  <code>「 Aunque ande en valle de sombra de muerte, no temeré mal alguno ✞ 」 — Salmo 23:4</code>
 </p>
 
-<h1 align="center">𝜤'𝒎 𝑺𝜾𝜶𝝍</h1>
+<br/>
 
+<!-- DECORATIVE SEPARATOR -->
 <p align="center">
-  <i>"Aunque ande en valle de sombra de muerte, no temeré mal alguno.✞ " — Salmo 23:4</i>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
 </p>
 
+<!-- ABOUT + GIF -->
+<img align="right" width="280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-DCkstbMWJWtCXcVb2z8qILDx-g4Ntx7CE8BdpEscQGVw2Z1HE6dy_US59qLq8RLfREiiTHbS36D-ZYIziXVO6nQkFmv1L1y70UAjrNEmnArTxdnDMBWUKT4xhnEz58MsQHNdtAs_FyA/s1600/3dc941e714fee4a9cdad76bd4b0f98d5.gif" style="border-radius:10px"/>
 
-<h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🤖 Future AI Engineer</h3>
+### ░▒▓ 自己紹介 / About Me ▓▒░
 
-<!-- GIF + ABOUT -->
-<img align="right" width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-DCkstbMWJWtCXcVb2z8qILDx-g4Ntx7CE8BdpEscQGVw2Z1HE6dy_US59qLq8RLfREiiTHbS36D-ZYIziXVO6nQkFmv1L1y70UAjrNEmnArTxdnDMBWUKT4xhnEz58MsQHNdtAs_FyA/s1600/3dc941e714fee4a9cdad76bd4b0f98d5.gif">
+```yaml
+名前 (name)     : Suat
+場所 (location) : México 🇲🇽
+役割 (role)     : Developer & Future AI Engineer
+状態 (status)   : [ Building in silence... ]
 
-### 🧠 About Me
+趣味 (hobbies):
+  - 💻 Code. Debug. Repeat.
+  - 🤖 Machine Learning obsessed
+  - 🔥 No solo programo... creo sistemas
+  - ⚡ Mejorando cada día sin parar
 
-- 🕶️ Code. Debug. Repeat.  
-- 💻 Construyendo proyectos en silencio  
-- 🤖 Especializándome en **Machine Learning**  
-- ⚡ Obsesionado con mejorar cada día  
-- 🔥 No solo programo... creo sistemas  
+哲学 (philosophy): "Silent work. Loud results."
+```
 
-🌐 Conecta conmigo
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
-</p>
+<br clear="right"/>
 
-
-### 🛠️ Skills
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,mysql,react,tailwind,git,github,vscode" />
-</p>
-
-
-### 📊 GitHub Stats
+<!-- SEPARATOR -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gutzessp-afk&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutzessp-afk&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
 </p>
 
-
-
-### 🔥 Racha de contribuciones
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gutzessp-afk&theme=tokyonight" />
-</p>
-
+<!-- SKILLS -->
+### ░▒▓ スキル / Skills ▓▒░
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,react,tailwind,git,github,vscode&theme=dark" />
 </p>
 
----
+<!-- SEPARATOR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
+</p>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer"/>
+<!-- STATS -->
+### ░▒▓ 統計 / GitHub Stats ▓▒░
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gutzessp-afk&show_icons=true&theme=synthwave&border_color=7b2fff&bg_color=0d0d0d&title_color=ff2d78&icon_color=7b2fff&text_color=ffffff&hide_border=false" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutzessp-afk&layout=compact&theme=synthwave&border_color=7b2fff&bg_color=0d0d0d&title_color=ff2d78&text_color=ffffff" width="41%"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gutzessp-afk&theme=synthwave&background=0d0d0d&ring=ff2d78&fire=ff2d78&currStreakLabel=7b2fff&border=7b2fff" width="70%"/>
+</p>
+
+<!-- SEPARATOR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
+</p>
+
+<!-- SNAKE -->
+### ░▒▓ コントリビューション / Contributions ▓▒░
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<!-- SEPARATOR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
+</p>
+
+<!-- CONNECT -->
+### ░▒▓ 接続 / Connect ▓▒░
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gutzessp-afk&style=for-the-badge&color=7b2fff&label=VISITAS+%2F+訪問者" />
+</p>
+
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,50:7b2fff,100:0d0d0d&height=140&section=footer&text=%E3%81%BE%E3%81%9F%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86&fontSize=24&fontColor=ffffff&fontAlignY=60"/>
