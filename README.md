@@ -1,139 +1,249 @@
-<!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a0a0a,100:8b0000&height=220&section=header&text=%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E5%8A%9B%E3%81%A0&fontSize=42&fontColor=cc2200&fontAlignY=40&desc=silent%20work.%20loud%20results.&descAlignY=62&descSize=15&animation=twinkling"/>
+<!-- ══════════════════ TOP BANNER ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0a2540,100:367bf0&height=210&section=header&text=root%40suat%3A~%23&fontSize=44&fontColor=00ff9c&fontAlignY=38&desc=silent%20work.%20loud%20results.&descAlignY=58&descSize=15&animation=twinkling"/>
 
-<!-- TYPING NAME -->
+<!-- ══════════════════ TYPING ══════════════════ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=34&duration=2800&pause=1000&color=CC2200&center=true&vCenter=true&width=620&lines=%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC+%2F+Suat;%E9%96%8B%E7%99%BA%E8%80%85+%2F+Developer;%E6%9C%AA%E6%9D%A5%E3%81%AEAI+%2F+Future+AI+Engineer;%E3%82%B3%E3%83%BC%E3%83%89%E3%80%82%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E3%80%82%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+whoami+-%3E+Suat;%24+cat+%2Fetc%2Frole+-%3E+Developer+%7C+Future+AI+Engineer;%24+uname+-a+-%3E+Arch+%7C+EndeavourOS+%7C+Omarchy;%24+while+true%3B+do+code%3B+debug%3B+done" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-building_in_silence-000000?style=for-the-badge&labelColor=000000&color=367bf0"/>
+  <img src="https://img.shields.io/badge/shell-fish%20%2F%20zsh-000000?style=for-the-badge&labelColor=000000&color=00ff9c"/>
+  <img src="https://img.shields.io/badge/wm-Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=00b0f0&labelColor=000000&color=00b0f0"/>
+  <img src="https://img.shields.io/badge/location-México%20🇲🇽-000000?style=for-the-badge&labelColor=000000&color=367bf0"/>
+</p>
 
 <p align="center">
   <code>「 Aunque ande en valle de sombra de muerte, no temeré mal alguno ✞ 」— Salmo 23:4</code>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- ABOUT ME — REDISEÑADO -->
+<!-- ══════════════════ NEOFETCH ══════════════════ -->
+<h3 align="left">▌ <code>neofetch</code></h3>
+
 <table align="center" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### ▌自己紹介 — About Me
+```console
+┌──(suat㉿arch)-[~]
+└─$ neofetch
 
-```rust
-struct Developer {
-    nombre    : "Suat",
-    ubicacion : "México 🇲🇽",
-    rol       : ["Developer", "Future AI Engineer"],
-    estado    : "Building in silence...",
-}
+       /\           suat@fenz-arch
+      /  \          ─────────────────────────────
+     /\   \         OS........ Omarchy 4.0.2 (Arch)
+    /      \        Kernel.... 6.x-zen
+   /   ,,   \       WM........ Hyprland (Wayland)
+  /   |  |  -\      Shell..... fish 4.8.1
+ /_-''    ''-_\     Terminal.. kitty
+                    Editor.... VS Code / nvim
+                    Disk...... LUKS full-disk
+                    Boot...... Limine (dual boot W11)
+                    Host...... MSI Thin A15 · R5 7535HS
+                    GPU....... Radeon + RTX 3050
+                    Uptime.... coding since day 0
 
-impl Developer {
-    fn filosofia() -> &'static str {
-        "No solo programo... creo sistemas."
-    }
-    fn obsesion() -> Vec<&'static str> {
-        vec!["Machine Learning", "Code",
-             "Debug", "Repeat"]
-    }
-}
+  ██ ██ ██ ██ ██ ██ ██ ██
 ```
 
-> 🕶️ Construyendo proyectos en silencio  
-> 🤖 Especializándome en **Machine Learning**  
-> ⚡ Obsesionado con mejorar cada día  
-> 🔥 Silent work. Loud results.
-
 </td>
-<td width="45%" align="center" valign="top">
+<td width="42%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/l4FGr2Oyp5MATfBbO/giphy.gif" width="280" style="border-radius:8px"/>
+<img src="https://media.giphy.com/media/l4FGr2Oyp5MATfBbO/giphy.gif" width="290" style="border-radius:10px"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-%22No%20solo%20programo...%20creo%20sistemas.%22-000000?style=flat-square&labelColor=000000&color=00ff9c"/>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-<!-- SKILLS -->
-### ▌スキル — Stack Tecnológico
+<!-- ══════════════════ ABOUT ══════════════════ -->
+<h3 align="left">▌ <code>cat about_me.rs</code></h3>
 
-**⟨ Frontend ⟩**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue&theme=dark" />
+```rust
+struct Developer {
+    nombre    : &'static str,
+    ubicacion : &'static str,
+    rol       : [&'static str; 2],
+    estado    : &'static str,
+}
+
+impl Developer {
+    fn new() -> Self {
+        Self {
+            nombre    : "Suat",
+            ubicacion : "México 🇲🇽",
+            rol       : ["Developer", "Future AI Engineer"],
+            estado    : "Building in silence...",
+        }
+    }
+
+    fn filosofia(&self) -> &'static str {
+        "No solo programo... creo sistemas."
+    }
+
+    fn obsesion(&self) -> Vec<&'static str> {
+        vec!["Machine Learning", "Linux", "Code", "Debug", "Repeat"]
+    }
+}
+```
+
+```console
+┌──(suat㉿arch)-[~]
+└─$ ./about --verbose
+[+] Construyendo proyectos en silencio
+[+] Especializándome en Machine Learning
+[+] Full stack web: JS / React / Node / Laravel
+[+] Daily driver: Arch-based + Hyprland
+[!] Obsesionado con mejorar cada día
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-**⟨ Backend ⟩**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,fastapi,flask&theme=dark" />
+<!-- ══════════════════ DISTROS ══════════════════ -->
+<h3 align="left">▌ <code>lsb_release -a</code> — Distro Hopping Log</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=1793D1&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/EndeavourOS-000000?style=for-the-badge&logo=endeavouros&logoColor=7F3FBF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Omarchy-000000?style=for-the-badge&logo=archlinux&logoColor=00FF9C&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=367BF0&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Windows_11-000000?style=for-the-badge&logo=windows11&logoColor=00B0F0&labelColor=000000"/>
 </p>
 
-**⟨ Data & AI ⟩**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<div align="center">
+
+| Distro | Base | Entorno | Uso | Estado |
+|:--|:--|:--|:--|:--:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="18"/> **Omarchy 4.0.2** | Arch | Hyprland / Wayland | Daily driver · full stack web | 🟢 `active` |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18"/> **EndeavourOS** | Arch | Hyprland · kitty · fish | Desarrollo proyecto SULA | 🟢 `active` |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="18"/> **Arch Linux** | — | KDE / tiling | Aprender el sistema desde cero | 🔵 `learned` |
+| <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="18"/> **Kali Linux** | Debian | XFCE | Pentesting · redes · lab | 🔵 `lab` |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="18"/> **Windows 11** | NT | — | Dual boot · ServBay · gaming | 🟢 `dual boot` |
+
+</div>
+
+<blockquote>
+<code>┌──(suat㉿arch)-[~]</code><br/>
+<code>└─$ sudo pacman -Syu && echo "el ricing nunca termina"</code>
+</blockquote>
+
+<details>
+<summary><b>▸ setup actual (dotfiles vibes)</b></summary>
+
+<br/>
+
+| Componente | Elección |
+|:--|:--|
+| WM / Compositor | Hyprland (Wayland) |
+| Terminal | kitty |
+| Shell | fish 4.8.1 |
+| Editor | VS Code · nvim |
+| Cifrado | LUKS full-disk |
+| Bootloader | Limine |
+| Runtime | Node v26 · Docker · Java 25 LTS |
+| Hardware | MSI Thin A15 — Ryzen 5 7535HS · Radeon + RTX 3050 |
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-**⟨ DevOps & Tools ⟩**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vscode,mysql,mongodb,redis,aws&theme=dark" />
+<!-- ══════════════════ STACK ══════════════════ -->
+<h3 align="left">▌ <code>pacman -Q stack</code></h3>
+
+<table align="center" width="100%">
+<tr><td valign="top" width="50%">
+
+**`⟨ frontend ⟩`**
+
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue&theme=dark" /></p>
+
+**`⟨ backend ⟩`**
+
+<p><img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs,fastapi,flask&theme=dark" /></p>
+
+</td><td valign="top" width="50%">
+
+**`⟨ data & ai ⟩`**
+
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /></p>
+
+**`⟨ devops & tools ⟩`**
+
+<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,vscode,neovim&theme=dark" /></p>
+
+**`⟨ data stores ⟩`**
+
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase,aws&theme=dark" /></p>
+
+</td></tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<!-- ══════════════════ STATS ══════════════════ -->
+<h3 align="left">▌ <code>htop --github</code></h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gutzessp-afk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=367bf0&text_color=8b949e&ring_color=367bf0" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutzessp-afk&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=8b949e" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
-</p>
-
-<!-- STATS -->
-### ▌統計 — GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gutzessp-afk&show_icons=true&theme=merko&border_color=8b0000&bg_color=0a0a0a&title_color=cc2200&icon_color=8b0000&text_color=aaaaaa" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutzessp-afk&layout=compact&theme=merko&border_color=8b0000&bg_color=0a0a0a&title_color=cc2200&text_color=aaaaaa" width="41%"/>
+  <img src="https://streak-stats.demolab.com?user=gutzessp-afk&hide_border=true&background=0d1117&ring=367bf0&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gutzessp-afk&theme=merko&background=0a0a0a&ring=cc2200&fire=cc2200&currStreakLabel=cc2200&border=8b0000&sideLabels=aaaaaa&dates=666666" width="70%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gutzessp-afk&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gutzessp-afk&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<!-- ══════════════════ CONTRIBUTIONS ══════════════════ -->
+<h3 align="left">▌ <code>git log --graph</code></h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
-</p>
-
-<!-- CONTRIBUTIONS SNAKE -->
-### ▌コントリビューション — Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gutzessp-afk&bg_color=0d1117&color=00ff9c&line=367bf0&point=00ff9c&area=true&area_color=0a2540&hide_border=true" width="98%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gutzessp-afk&bg_color=0a0a0a&color=cc2200&line=8b0000&point=cc2200&area=true&area_color=1a0000&hide_border=true" width="95%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<!-- ══════════════════ CONNECT ══════════════════ -->
+<h3 align="left">▌ <code>ping suat</code></h3>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=367BF0&labelColor=000000"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF9C&labelColor=000000"/></a>&nbsp;
+  <a href="https://github.com/gutzessp-afk"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/></a>&nbsp;
+  <a href="mailto:gutzessp@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=367BF0&labelColor=000000"/></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
+  <img src="https://komarev.com/ghpvc/?username=gutzessp-afk&style=for-the-badge&color=367bf0&labelColor=000000&label=VISITAS"/>
 </p>
 
-<!-- CONNECT -->
-### ▌接続 — Conecta conmigo
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gutzessp-afk&style=for-the-badge&color=8b0000&label=訪問者+%2F+VISITAS" />
-</p>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:1a0a0a,100:0a0a0a&height=140&section=footer&text=%E3%81%BE%E3%81%9F%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86&fontSize=22&fontColor=cc2200&fontAlignY=60"/>
+<!-- ══════════════════ FOOTER ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:367bf0,55:0a2540,100:000000&height=150&section=footer&text=exit%200&fontSize=26&fontColor=00ff9c&fontAlignY=68"/>
